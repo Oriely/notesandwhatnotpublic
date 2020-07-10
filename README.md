@@ -45,7 +45,7 @@ https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay
 
 https://www.curseforge.com/minecraft/mc-mods/healing-campfire
 
-https://www.curseforge.com/minecraft/mc-mods/tubes-reloaded/files/2990839
+https://www.curseforge.com/minecraft/mc-mods/tubes-reloaded
 
 
 Library
