@@ -10,7 +10,12 @@ https://www.curseforge.com/minecraft/mc-mods/gravestone-mod
 
 https://www.curseforge.com/minecraft/mc-mods/trashslot
 
-https://www.curseforge.com/minecraft/mc-mods/reap-mod
+https://www.curseforge.com/minecraft/mc-mods/falling-tree
+
+https://www.curseforge.com/minecraft/mc-mods/sleeping-bags
+
+https://www.curseforge.com/minecraft/mc-mods/simpleharvest
+
 
 UI
 
