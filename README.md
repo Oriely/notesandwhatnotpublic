@@ -2,8 +2,6 @@
 
 QOL and Items
 
-https://www.curseforge.com/minecraft/mc-mods/miners-helmet
-
 https://www.curseforge.com/minecraft/mc-mods/storage-drawers
 
 https://www.curseforge.com/minecraft/mc-mods/gravestone-mod
